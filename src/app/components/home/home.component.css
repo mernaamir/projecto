@@ -1,0 +1,11 @@
+button{
+    color:blue;
+    padding:15px 15px;
+    font-size: 15px;
+    border-radius: 10px;
+}
+
+.taskn{
+ border:solid;
+ font-size: 20px;
+}
